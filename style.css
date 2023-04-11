@@ -1,0 +1,15 @@
+.principal{     
+    border: 3px solid black;
+    display: flex;      
+    flex-direction: column;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.secciones{
+    border: 2px solid green;
+}
+
+.secciones:hover {
+    width: 150%;
+}
